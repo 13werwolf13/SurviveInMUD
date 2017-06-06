@@ -9,3 +9,16 @@ def printcharacterinfo():
     conn.commit()
 
     print(curs.fetchall())
+
+def additemtobag():
+    print("test")
+
+def rmitemfrombag():
+    print("test")
+
+def dressingitem():
+    print("test")
+
+def undressingitem():
+    print("test")
+
