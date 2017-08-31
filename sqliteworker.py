@@ -21,4 +21,3 @@ def dressingitem():
 
 def undressingitem():
     print("test")
-
